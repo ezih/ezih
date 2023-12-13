@@ -1,1 +1,1 @@
-- placehodler for now -- more bitbucket-friendly
+- placeholder for now -- more bitbucket-friendly
