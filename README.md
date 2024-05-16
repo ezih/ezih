@@ -3,7 +3,7 @@
 Passionate Software professional, driven by a curiosity for web-based technology and a love for exploring technical solutions.
 Whether it's outright Code-based development; or No-code developmeent; or mix of both [ie. Low-code] - I'm always building & tinkering.
 
-![David's Stats](https://github-readme-stats.vercel.app/api?username=<ezih>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![David's Stats](https://github-readme-stats.vercel.app/api?username=ezih&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
