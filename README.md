@@ -10,16 +10,15 @@ Whether it's outright Code-based development; or No-code developmeent; or mix of
 - 🔭 I'm currently building a SaaS platform - (B2B and B2C focus)
 - 👨🏽‍💻 I currently work part-time on contract for an chat automation startup based
 - ⚙️ Low-code/No-code afficianado - BUBBLE.io & RETOOOL.com - with interests in AI/LLMs
+- 🗃️ Also run a chat automation/AI agency [here](https://upendtech.uk/)
 
 
 ## My Articles
 - [STOP! Don’t Let the Bots Fool You…](https://medium.com/a-chatbots-life/stop-dont-let-the-bots-fool-you-7fafd8ed7dd9)
 - [The ChatBot Craze](https://medium.com/a-chatbots-life/the-chatbot-craze-and-why-i-think-its-may-not-be-the-best-investment-for-small-businesses-578ce1ca3328)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## 🌱 Currently building & exploring
 
 - 🚀 Delving Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
@@ -30,7 +29,7 @@ Whether it's outright Code-based development; or No-code developmeent; or mix of
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 
 
 
 ## 📬 Get in Touch
