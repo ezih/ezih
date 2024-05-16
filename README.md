@@ -36,7 +36,7 @@ Whether it's outright Code-based development; or No-code developmeent; or mix of
 
 - Connect with me on [Twitter](https://twitter.com/EzihUche)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and building PRODUCTS that users love. 🚀
 
 
 
