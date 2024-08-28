@@ -24,8 +24,7 @@ Whether it's outright Code-based development; or No-code developmeent; or mix of
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Node - MERN and MEAN stacks
-  - Diving into PostgreSQL & MongoDB for efficient and scalable database management.
+  - Building server-side applications with Node - MERN stack
 
  ## 🏆 Achievements
 
