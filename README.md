@@ -8,7 +8,7 @@ Whether it's outright Code-based development; or No-code developmeent; or mix of
 ## 🚀 About Me
 
 - 🔭 I'm currently building a SaaS platform, as an IndieHacker - (B2B and B2C focus)
-- 👨🏽‍💻 I currently work part-time on contract for an chat automation startup based
+- 👨🏽‍💻 I currently work part-time on contract for a Chat|AI automation startup based
 - ⚙️ Low-code/No-code afficianado - BUBBLE.io & RETOOOL.com - with interests in AI/LLMs
 - 🗃️ Also run a chat automation/AI agency [here](https://upendtech.uk/)
 
